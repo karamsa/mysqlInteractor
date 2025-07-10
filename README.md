@@ -37,4 +37,5 @@ Give me the number of flights by departure airport in flights booking database
 ```
 
 ## Result ##
-![image](https://github.com/user-attachments/assets/c363caf3-eaba-45ac-a54a-135da16c3209)
+![image](https://github.com/user-attachments/assets/32ff18f8-8838-49f3-b568-5f86a9856feb)
+
